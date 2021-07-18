@@ -1,5 +1,5 @@
 # rest_api_crud
-To 
+#### CRUD using REST API
 ### How to use
 * run pip3 install -r requirements.txt
 * run python3 manage.py runserver
